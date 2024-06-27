@@ -3,4 +3,4 @@
 3. 영화 대여/구매에 대한 적정 금액이 존재할 것이다.
 4. 더빙의 유무가 영화에 대한 만족도에 영향을 끼칠 것이다.
 
-[시각화] (https://public.tableau.com/app/profile/.56105120/viz/FinalProject_17188683565720/Dashboard1)
+[Tableau 시각화 대시보드](https://public.tableau.com/app/profile/.56105120/viz/FinalProject_17188683565720/Dashboard1)
